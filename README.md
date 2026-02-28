@@ -11,9 +11,9 @@ A premium full-stack Chess mobile application built with React Native (Frontend)
 | Layer | Technology |
 |---|---|
 | Mobile App | React Native (Expo) |
-| Backend API | Java Spring Boot 3.x |
+| Backend API | Java Spring Boot |
 | Database | H2 (dev) / PostgreSQL (prod) |
-| Admin Data | Google Sheets API v4 |
+| Admin Data | Google Sheets API v4 (NA) |
 | Chess Engine | Chess.js (frontend) + Stockfish (backend bot) |
 | Auth | JWT Tokens + BCrypt |
 
