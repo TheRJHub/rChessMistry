@@ -74,11 +74,4 @@ npx expo start
 - 🔐 App-only username/password auth (no email)
 
 ---
-
-## 🔐 Admin Access
-All user data (username, stats, device, join date) is automatically synced to your configured Google Sheet.
-Set your credentials in `backend/src/main/resources/application.properties`.
-
----
-
-*Built with ❤️ by TheRJHub*
+eRJHub*
