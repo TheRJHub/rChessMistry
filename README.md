@@ -49,7 +49,7 @@ rChessMistry/
 ### Backend
 ```bash
 cd backend
-./mvnw spring-boot:run
+mvn spring-boot:run
 # Runs on http://localhost:8080
 ```
 
@@ -69,9 +69,6 @@ npx expo start
 - 🧩 Chess Challenges / Puzzles
 - 👤 User Profile with photo, stats (W/L/D)
 - 🌙 Dark / Light / Grey Theme
-- 📊 Admin: All user data synced to Google Sheet
-- 📝 Feedback via Google Form
-- 🔐 App-only username/password auth (no email)
+- and so on...
 
 ---
-eRJHub*
